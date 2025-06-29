@@ -13,7 +13,8 @@ Aplikacja wykorzystuje technologię OCR (ML Kit) do odczytu wyników z ekranu i 
 System oparty jest na lekkim backendzie Flask + Google Sheets API, hostowanym na Render.com, i działa w pełni automatycznie po wybraniu screenshota z gry.
 
 ---
-
+![TheTowerReader1](https://github.com/user-attachments/assets/6b00cb1b-fcd8-47a3-96fe-1a217ae4ff89) ![TheTowerReader2](https://github.com/user-attachments/assets/34706e0c-c779-4f29-bf89-52421fc6cae3)
+---
 ## ✨ Główne funkcje
 
 ### 📱 Aplikacja Android:
