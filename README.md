@@ -142,6 +142,7 @@ Wszelkie prawa zastrzeżone. Kod nie jest przeznaczony do ponownego użycia ani 
 
 ## ✅ Plany rozwoju
 
+- [ ] (BUG) Poprawić pobieranie daty (aplikacja bierze aktualną, zamiast z nazwy screena)
 - [ ] Historia wysyłek w aplikacji
 - [ ] Edytowalność danych przed wysyłką
 - [ ] Automatyczny backup danych do drugiego arkusza
